@@ -12,6 +12,7 @@ dependencies = [
     "langchain-google-genai>=4.2.2",
     "langchain-openai>=1.2.1",
     "langgraph>=1.1.10",
+    "litellm>=1.83.0",
     "python-dotenv>=1.2.2",
     "uvicorn>=0.46.0",
 ]
